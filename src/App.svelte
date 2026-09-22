@@ -25,7 +25,7 @@
 
 <main class="w-screen h-screen overflow-hidden bg-blue-500 dark:bg-black transition-colors duration-0 flex items-center justify-center p-4">
   <div class="fixed top-4 left-4 z-50 font-vt323 text-xl text-white dark:text-green-500">
-    my website
+    aaradhya's website
   </div>
   <ThemeToggle />
   
