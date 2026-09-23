@@ -3,19 +3,19 @@
 
   const projectData: Record<string, { name: string, desc: string, github: string }> = {
     'project-alpha': {
-      name: 'PROJECT_ALPHA',
-      desc: 'A TUI-BASED SYSTEM MONITOR WRITTEN IN RUST. MONITORS CPU, MEMORY, AND NETWORK TRAFFIC WITH ZERO OVERHEAD.',
-      github: 'https://github.com/#'
+      name: 'Nexus',
+      desc: 'An enterprise security enclave that replaces traditional passwords with cryptographic Web3 authentication, automated wallet provisioning, and strict role-based access control.',
+      github: 'nexusvix.vercel.app'
     },
     'project-beta': {
-      name: 'PROJECT_BETA',
-      desc: 'RETRO WEB COMPONENTS LIBRARY. BRINGS THE GLORY OF 90S COMPUTING TO MODERN WEB APPLICATIONS.',
-      github: 'https://github.com/#'
+      name: 'QuantShell',
+      desc: 'A high-frequency trading simulation engine featuring a custom terminal-style UI, live market data streaming, and predictive machine learning pipelines.',
+      github: 'quantshell.vercel.app'
     },
     'project-gamma': {
-      name: 'PROJECT_GAMMA',
-      desc: 'DECENTRALIZED CHAT PROTOCOL INSPIRED BY IRC. FULLY ENCRYPTED AND RUNS IN THE TERMINAL.',
-      github: 'https://github.com/#'
+      name: 'Enterprise RAG Pipeline',
+      desc: 'A privacy-first, fully localized AI chatbot platform powered by a distributed Go microservice architecture and a real-time SvelteKit frontend.',
+      github: 'github.com/aara-dhya/enterprise-rag-pipeline'
     }
   };
 

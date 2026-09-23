@@ -4,11 +4,13 @@
 <div class="flex flex-col h-full justify-between">
   <div class="mb-8">
     <p class="mb-4">
-      HELLO. I AM A DEVELOPER LIVING IN THE COMMAND LINE.<span class="cursor-blink"></span>
+      Hello :D<span class="cursor-blink"></span>
     </p>
     <p>
-      I SPECIALIZE IN BUILDING ROBUST SYSTEMS WITH A TOUCH OF RETRO AESTHETICS.
-      MY EXPERTISE INCLUDES SVELTE, TYPESCRIPT, AND CRAFTING TUI EXPERIENCES.
+      I'm a full-stack developer who prefers terminal windows over graphical interfaces 
+      and dark mode over everything else. I specialize in wiring up scalable Go backends 
+      and building crisp, retro-inspired frontends using Svelte. I like my systems fast, 
+      my data private, and my Vim configuration constantly evolving.
     </p>
   </div>
   

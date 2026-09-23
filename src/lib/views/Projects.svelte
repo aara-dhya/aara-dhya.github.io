@@ -3,9 +3,9 @@
   import Button from '../components/Button.svelte';
 
   const projectsList = [
-    { id: 'project-alpha', name: 'PROJECT_ALPHA' },
-    { id: 'project-beta', name: 'PROJECT_BETA' },
-    { id: 'project-gamma', name: 'PROJECT_GAMMA' }
+    { id: 'project-alpha', name: 'Nexus' },
+    { id: 'project-beta', name: 'QuantShell' },
+    { id: 'project-gamma', name: 'Enterprise RAG Pipeline' }
   ];
 
   let activeIndex = 0;

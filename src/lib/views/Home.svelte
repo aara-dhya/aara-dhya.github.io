@@ -5,7 +5,7 @@
   const menuItems = [
     { id: 'about', label: 'about me', type: 'view' },
     { id: 'projects', label: 'projects', type: 'view' },
-    { id: 'github', label: 'github', type: 'link', url: 'https://github.com/#' },
+    { id: 'github', label: 'github', type: 'link', url: 'https://github.com/aara-dhya' },
     { id: 'linkedin', label: 'linkedin', type: 'link', url: 'https://linkedin.com/in/#' },
     { id: 'resume', label: 'resume', type: 'link', url: '/resume.pdf' }
   ];
