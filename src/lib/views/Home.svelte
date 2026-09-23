@@ -7,7 +7,7 @@
     { id: 'projects', label: 'projects', type: 'view' },
     { id: 'github', label: 'github', type: 'link', url: 'https://github.com/aara-dhya' },
     { id: 'linkedin', label: 'linkedin', type: 'link', url: 'https://linkedin.com/in/#' },
-    { id: 'resume', label: 'resume', type: 'link', url: '/resume.pdf' }
+    { id: 'resume', label: 'resume', type: 'link', url: '' }
   ];
 
   let activeIndex = 0;
