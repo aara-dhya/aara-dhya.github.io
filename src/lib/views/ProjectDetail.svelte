@@ -5,17 +5,17 @@
     'project-alpha': {
       name: 'Nexus',
       desc: 'An enterprise security enclave that replaces traditional passwords with cryptographic Web3 authentication, automated wallet provisioning, and strict role-based access control.',
-      github: 'nexusvix.vercel.app'
+      github: 'https://nexusvix.vercel.app'
     },
     'project-beta': {
       name: 'QuantShell',
       desc: 'A high-frequency trading simulation engine featuring a custom terminal-style UI, live market data streaming, and predictive machine learning pipelines.',
-      github: 'quantshell.vercel.app'
+      github: 'https://quantshell.vercel.app'
     },
     'project-gamma': {
       name: 'Enterprise RAG Pipeline',
       desc: 'A privacy-first, fully localized AI chatbot platform powered by a distributed Go microservice architecture and a real-time SvelteKit frontend.',
-      github: 'github.com/aara-dhya/enterprise-rag-pipeline'
+      github: 'https://github.com/aara-dhya/enterprise-rag-pipeline'
     }
   };
 
